@@ -1,6 +1,6 @@
-# Musebox
+# Musicia
 
-Musebox is a simple and user-friendly music streaming application where users can explore, discover, and listen to their favorite songs. It offers a wide range of features such as searching for songs, playlist,artists, and saving favorite songs for offline listening.
+Musicia is a simple and user-friendly music streaming application where users can explore, discover, and listen to their favorite songs. It offers a wide range of features such as searching for songs, playlist,artists, and saving favorite songs for offline listening.
 
 ## Features
 - Song search: Users can search for songs by title, artist, or album.
@@ -19,13 +19,13 @@ To set up the application, follow these steps:
 1. Clone the repository:
 
 ```
-git clone https://github.com/sachin492002/musebox.git
+git clone https://github.com/sarthakmishra459/musicia.git
 ```
 
 2. Install the dependencies:
 
 ```
-cd musebox
+cd musicia
 npm install
 ```
 
